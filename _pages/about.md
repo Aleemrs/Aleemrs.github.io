@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>amoralesb003@alumno.uaemex.mx
 
 profile:
   align: right
@@ -20,13 +20,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hola bienvenido a mi perfil. 
-Mi nombre es Alejandro, estudiante de la carrera de Ingenieria en Computacion en mi orgullosa UEMEX [Valle de M+exico](https://cuvalledemexico.uaemex.mx/). Tengo 23 años a punto de festejar mi proximo cumpleaños.
+Mi nombre es Alejandro, estudiante de la carrera de Ingenieria en Computacion en mi orgullosa UEMEX [Valle de México](https://cuvalledemexico.uaemex.mx/). Tengo 23 años a punto de festejar mi proximo cumpleaños.
 
 Amo mucho estudiar, asi como convivir con mi familia y que mejor que mi novia sea parte de ella.
 "En la vida jamas se deja de aprednder" y por ende aqui estoy, explorando cosas nuevas.
 Soy apasionado por escuchar musica en especial el regional, mi cancion favorita es [El Azul](https://youtu.be/abG78S3HRyM). 
 Tengo una obsesión por los autos deportivos, clasicos, exoticos o poco comunes, me encanta manejar... mi primer auto fue uno de esos.
 
-Esta es mi unica red social IG: [Alee](https://instagram.com/_xlee_m?igshid=ZDdkNTZiNTM=), subo muy pocas cosas por que creeo que la vida se disfruta mejor en privado.
+Esta es mi unica red social IG:[Alee](https://instagram.com/_xlee_m?igshid=ZDdkNTZiNTM=), subo muy pocas cosas por que creeo que la vida se disfruta mejor en privado.
 
 Esto es un poco sobre mi, gracias por visitar mi perfil.
