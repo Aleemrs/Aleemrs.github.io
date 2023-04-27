@@ -6,7 +6,7 @@ subtitle: <a href='#'>amoralesb003@alumno.uaemex.mx
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ale.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>5546869240</p>
