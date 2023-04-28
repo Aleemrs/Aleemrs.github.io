@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hola bienvenido a mi perfil. 
-Mi nombre es Alejandro, estudiante de la carrera de Ingenieria en Computacion en mi orgullosa UEMEX [Valle de México](https://cuvalledemexico.uaemex.mx/). Tengo 23 años a punto de festejar mi proximo cumpleaños.
+Soy un chico estudiante de la carrera de Ingenieria en Computacion en mi orgullosa UEMEX [Valle de México](https://cuvalledemexico.uaemex.mx/). Tengo 22 años a punto de festejar mi proximo cumpleaños.
 
-Amo mucho estudiar, asi como convivir con mi familia y que mejor que mi novia sea parte de ella.
+Me fascina mucho estudiar, asi como convivir con mi familia y que mejor que mi novia sea parte de ella. Llevo de relacion mas de un año.. mi chica hermosa ha sido lo mejor que me ha pasado en la vida, amo mucho a mi pequeña Monii.
 "En la vida jamas se deja de aprednder" y por ende aqui estoy, explorando cosas nuevas.
 Soy apasionado por escuchar musica en especial el regional, mi cancion favorita es [El Azul](https://youtu.be/abG78S3HRyM). 
 Tengo una obsesión por los autos deportivos, clasicos, exoticos o poco comunes, me encanta manejar... mi primer auto fue uno de esos.
